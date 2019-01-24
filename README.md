@@ -39,11 +39,11 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 ||Engine's vergelijken|Engine vastgeseld|VR librarys installeren|Route vaststellen en automatisch bewegen|
-|week 2 |Enemy Health|Shoot mechanic maken|Planning bijwerken|Score|Polishen en inleveren|
+|week 2 |Enemy Health|Shoot mechanic maken|Documentatie|Score|Polishen en inleveren|
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Pro's en Cons voor UE4 en Unity](https://www.reddit.com/r/Vive/comments/6zce0h/whats_the_state_of_ue4_vs_unity_for_vr_development/)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [UE4 pro's en cons](https://www.newgenapps.com/blog/unreal-engine-review-pros-cons-suitability)
+- [Unity pro's en cons](https://medium.com/@N_iX/unity-vs-unreal-how-to-choose-the-best-game-engine-d3dbb4add73c)
