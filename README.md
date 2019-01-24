@@ -1,10 +1,11 @@
-# Naam Proefopdracht
+# VR Rail Shooter
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
 ## Software Anaylse 
 UE4
+
 Pro's
+
 -Is beter qua performance en graphics.
 
 -Het heeft meer tools en functionaliteiten.
@@ -12,6 +13,7 @@ Pro's
 -Het heeft een visual editor.
 
 Cons
+
 -De engine runt zwaar.
 
 -Er is nog weinig documentatie.
@@ -21,6 +23,7 @@ Cons
 Unity
 
 Pro's
+
 -Er is een grote documentatie.
 
 -Je kunt makkelijker tutorials vinden.
@@ -28,6 +31,7 @@ Pro's
 -Ik heb meer ervaring in C#
 
 Cons
+
 -Outdated versie van C#
 
 -Multi-threading werkt niet goed.
