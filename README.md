@@ -47,7 +47,7 @@ Ik heb uiteindelijk voor Unreal Engine. Ik heb namelijk al een VR project gedaan
 
 -Er achter komen welke engine ik prettiger vind voor VR.
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
+
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
