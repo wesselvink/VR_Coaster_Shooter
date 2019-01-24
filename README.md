@@ -2,7 +2,7 @@
 
 
 ## Software Anaylse 
-### UE4
+## UE4
 
 ### Pro's
 
@@ -20,7 +20,7 @@
 
 -Projecten zijn grote bestanden.
 
-### Unity
+## Unity
 
 ### Pro's
 
