@@ -55,7 +55,6 @@ Ik heb uiteindelijk voor Unreal Engine. Ik heb namelijk al een VR project gedaan
 |week 2 |Enemy Health|Shoot mechanic maken|Documentatie|Score|Polishen en inleveren|
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Pro's en Cons voor UE4 en Unity](https://www.reddit.com/r/Vive/comments/6zce0h/whats_the_state_of_ue4_vs_unity_for_vr_development/)
 - [UE4 pro's en cons](https://www.newgenapps.com/blog/unreal-engine-review-pros-cons-suitability)
