@@ -51,7 +51,7 @@ Ik heb uiteindelijk voor Unreal Engine. Ik heb namelijk al een VR project gedaan
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 ||Engine's vergelijken|Engine vastgeseld|VR librarys installeren|Route vaststellen en automatisch bewegen|
+|week 1 |Briefing|Engine's vergelijken|Engine vastgeseld|VR librarys installeren|Route vaststellen en automatisch bewegen|
 |week 2 |Enemy Health|Shoot mechanic maken|Documentatie|Score|Polishen en inleveren|
 
 ## Bronnen
