@@ -6,23 +6,32 @@ Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan
 UE4
 Pro's
 -Is beter qua performance en graphics.
+
 -Het heeft meer tools en functionaliteiten.
+
 -Het heeft een visual editor.
 
 Cons
 -De engine runt zwaar.
+
 -Er is nog weinig documentatie.
+
 -Projecten zijn grote bestanden.
 
 Unity
+
 Pro's
 -Er is een grote documentatie.
+
 -Je kunt makkelijker tutorials vinden.
+
 -Ik heb meer ervaring in C#
 
 Cons
 -Outdated versie van C#
--Multi-threading werkt niet goed
+
+-Multi-threading werkt niet goed.
+
 -Het renderen duurt langer.
 
 Ik heb uiteindelijk voor Unreal Engine. Ik heb namelijk al een VR project gedaan in unity en daarom zou ik het graag willen proberen in Unreal Engine om zelf te bepalen welke ik heb.
