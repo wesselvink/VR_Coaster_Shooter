@@ -4,7 +4,7 @@
 ## Software Anaylse 
 ### UE4
 
-## Pro's
+### Pro's
 
 -Is beter qua performance en graphics.
 
@@ -12,7 +12,7 @@
 
 -Het heeft een visual editor.
 
-##Cons
+### Cons
 
 -De engine runt zwaar.
 
@@ -20,9 +20,9 @@
 
 -Projecten zijn grote bestanden.
 
-##Unity
+### Unity
 
-##Pro's
+### Pro's
 
 -Er is een grote documentatie.
 
@@ -30,7 +30,7 @@
 
 -Ik heb meer ervaring in C#
 
-##Cons
+### Cons
 
 -Outdated versie van C#
 
